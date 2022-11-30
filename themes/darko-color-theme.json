@@ -252,7 +252,7 @@
     "titleBar.activeForeground": "#a0a6ae",
     "titleBar.inactiveBackground": "#112334",
     "titleBar.inactiveForeground": "#4b5765",
-    "widget.shadow": "#001324"
+    "widget.shadow": "#001324",
     "activityBar.activeBorder": "#a69ee3",
     "activityBar.dropBorder": "#a69ee3",
     "activityBarItem.settingsProfilesBackground": "#1a354e",
@@ -1350,7 +1350,7 @@
     {
       "scope": ["markup.heading"],
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
