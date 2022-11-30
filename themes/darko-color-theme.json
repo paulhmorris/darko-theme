@@ -1394,12 +1394,6 @@
       }
     },
     {
-      "scope": [""],
-      "settings": {
-        "foreground": "#B8B0F6"
-      }
-    },
-    {
       "scope": [
         "keyword.operator.rest",
         "keyword.operator.assignment",
