@@ -346,7 +346,7 @@
     "editor.foldBackground": "#dadcdf0f",
     "editor.inlineValuesBackground": "#ffc80033",
     "editor.inlineValuesForeground": "#ffffff80",
-    "editor.linkedEditingBackground": "#ff00004d",
+    "editor.linkedEditingBackground": "#dadcdf20",
     "editor.symbolHighlightBackground": "#dadcdf20",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
     "editorBracketPairGuide.activeBackground1": "#00000000",
