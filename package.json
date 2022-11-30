@@ -3,6 +3,7 @@
   "displayName": "Darko",
   "description": "Like Easter, but dark.",
   "publisher": "paul-morris",
+  "icon": "bunny.png",
   "license": "MIT",
   "repository": {
     "type": "git",
