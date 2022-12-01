@@ -82,13 +82,13 @@
     "editorHoverWidget.border": "#b8b0f630",
     "editorIndentGuide.activeBackground": "#273341",
     "editorIndentGuide.background": "#1d2a39",
-    "editorInfo.foreground": "#008000",
+    "editorInfo.foreground": "#b9f3d3",
     "editorLineNumber.activeForeground": "#6b737e",
     "editorLineNumber.foreground": "#4d5663",
     "editorLink.activeForeground": "#4e94ce",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#ab7561",
-    "editorMarkerNavigationInfo.background": "#008000",
+    "editorMarkerNavigationInfo.background": "#b9f3d3",
     "editorMarkerNavigationWarning.background": "#4d9e4d",
     "editorOverviewRuler.addedForeground": "#005f75",
     "editorOverviewRuler.border": "#29323c",
@@ -290,12 +290,12 @@
     "activityBarItem.settingsProfilesHoverForeground": "#726cac",
     "banner.background": "#dadcdf0f",
     "banner.foreground": "#edeeef",
-    "banner.iconForeground": "#008000",
+    "banner.iconForeground": "#b9f3d3",
     "button.secondaryBackground": "#3a3d41",
     "button.secondaryForeground": "#ffffff",
     "button.secondaryHoverBackground": "#45494e",
     "button.separator": "#ffffff66",
-    "charts.blue": "#008000",
+    "charts.blue": "#b9f3d3",
     "charts.foreground": "#dadcdf",
     "charts.green": "#89d185",
     "charts.lines": "#dadcdf80",
@@ -311,7 +311,7 @@
     "commandCenter.inactiveBorder": "#4d566340",
     "commandCenter.inactiveForeground": "#4d5663",
     "debugConsole.errorForeground": "#ab7561",
-    "debugConsole.infoForeground": "#008000",
+    "debugConsole.infoForeground": "#b9f3d3",
     "debugConsole.sourceForeground": "#dadcdf",
     "debugConsole.warningForeground": "#ffd580",
     "debugConsoleInputIcon.foreground": "#dadcdf",
@@ -348,7 +348,7 @@
     "editor.inlineValuesForeground": "#ffffff80",
     "editor.linkedEditingBackground": "#dadcdf20",
     "editor.symbolHighlightBackground": "#dadcdf20",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff5874cc",
     "editorBracketPairGuide.activeBackground1": "#00000000",
     "editorBracketPairGuide.activeBackground2": "#00000000",
     "editorBracketPairGuide.activeBackground3": "#00000000",
@@ -374,10 +374,10 @@
     "editorInlayHint.parameterForeground": "#ffffff",
     "editorInlayHint.typeBackground": "#726caccc",
     "editorInlayHint.typeForeground": "#ffffff",
-    "editorLightBulb.foreground": "#ffcc00",
+    "editorLightBulb.foreground": "#ffdaad",
     "editorLightBulbAutoFix.foreground": "#75beff",
     "editorMarkerNavigationError.headerBackground": "#ab75611a",
-    "editorMarkerNavigationInfo.headerBackground": "#0080001a",
+    "editorMarkerNavigationInfo.headerBackground": "#b9f3d31a",
     "editorMarkerNavigationWarning.headerBackground": "#4d9e4d1a",
     "editorStickyScrollHover.background": "#2a2d2e",
     "editorSuggestWidget.focusHighlightForeground": "#edeeef",
@@ -524,14 +524,14 @@
     "notebookStatusSuccessIcon.foreground": "#89d185",
     "notifications.foreground": "#dadcdf",
     "notificationsErrorIcon.foreground": "#ff5874",
-    "notificationsInfoIcon.foreground": "#008000",
+    "notificationsInfoIcon.foreground": "#b9f3d3",
     "notificationsWarningIcon.foreground": "#ffd580",
     "panel.dropBorder": "#edeeef",
     "panelSection.dropBackground": "#dadcdf20",
     "panelSectionHeader.background": "#80808033",
     "ports.iconRunningProcessForeground": "#726cac",
     "problemsErrorIcon.foreground": "#ff5874",
-    "problemsInfoIcon.foreground": "#008000",
+    "problemsInfoIcon.foreground": "#b9f3d3",
     "problemsWarningIcon.foreground": "#ffd580",
     "quickInput.foreground": "#dadcdf",
     "quickInputList.focusBackground": "#dadcdf0f",
@@ -561,21 +561,21 @@
     "statusBarItem.warningForeground": "#ffffff",
     "symbolIcon.arrayForeground": "#dadcdf",
     "symbolIcon.booleanForeground": "#dadcdf",
-    "symbolIcon.classForeground": "#ee9d28",
+    "symbolIcon.classForeground": "#ffdaad",
     "symbolIcon.colorForeground": "#dadcdf",
     "symbolIcon.constantForeground": "#dadcdf",
-    "symbolIcon.constructorForeground": "#b180d7",
-    "symbolIcon.enumeratorForeground": "#ee9d28",
-    "symbolIcon.enumeratorMemberForeground": "#75beff",
-    "symbolIcon.eventForeground": "#ee9d28",
-    "symbolIcon.fieldForeground": "#75beff",
+    "symbolIcon.constructorForeground": "#b8b0f6",
+    "symbolIcon.enumeratorForeground": "#ffdaad",
+    "symbolIcon.enumeratorMemberForeground": "#97d0ff",
+    "symbolIcon.eventForeground": "#ffdaad",
+    "symbolIcon.fieldForeground": "#97d0ff",
     "symbolIcon.fileForeground": "#dadcdf",
     "symbolIcon.folderForeground": "#dadcdf",
-    "symbolIcon.functionForeground": "#b180d7",
-    "symbolIcon.interfaceForeground": "#75beff",
+    "symbolIcon.functionForeground": "#b8b0f6",
+    "symbolIcon.interfaceForeground": "#97d0ff",
     "symbolIcon.keyForeground": "#dadcdf",
     "symbolIcon.keywordForeground": "#dadcdf",
-    "symbolIcon.methodForeground": "#b180d7",
+    "symbolIcon.methodForeground": "#b8b0f6",
     "symbolIcon.moduleForeground": "#dadcdf",
     "symbolIcon.namespaceForeground": "#dadcdf",
     "symbolIcon.nullForeground": "#dadcdf",
@@ -591,7 +591,7 @@
     "symbolIcon.textForeground": "#dadcdf",
     "symbolIcon.typeParameterForeground": "#dadcdf",
     "symbolIcon.unitForeground": "#dadcdf",
-    "symbolIcon.variableForeground": "#75beff",
+    "symbolIcon.variableForeground": "#97d0ff",
     "tab.lastPinnedBorder": "#585858",
     "tab.unfocusedActiveBorder": "#b8b0f680",
     "tab.unfocusedHoverBackground": "#dadcdf08",
@@ -1248,7 +1248,7 @@
     {
       "scope": ["support.class.component.js"],
       "settings": {
-        "foreground": "#B9B2E8"
+        "foreground": "#FFDAAD"
       }
     },
     {
@@ -1314,11 +1314,7 @@
       }
     },
     {
-      "scope": [
-        "storage.type.function.arrow.js",
-        "storage.type.function.arrow.ts",
-        "storage.type.function.arrow.tsx"
-      ],
+      "scope": ["storage.type.function.arrow"],
       "settings": {
         "foreground": "#B4B8BD"
       }
@@ -1417,7 +1413,10 @@
       }
     },
     {
-      "scope": ["string", "entity.other.attribute-name.class.css"],
+      "scope": [
+        "string",
+        "meta.at-rule.apply.tailwind entity.other.attribute-name.class.css"
+      ],
       "settings": {
         "foreground": "#B9F3D3"
       }

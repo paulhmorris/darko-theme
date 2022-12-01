@@ -11,7 +11,7 @@
   },
   "version": "0.0.9",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.62.0"
   },
   "categories": [
     "Themes"
