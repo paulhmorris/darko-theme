@@ -1361,8 +1361,7 @@
         "entity.name.method.js",
         "entity.name.class.js",
         "entity.name.tag.doctype",
-        "entity.other.attribute-name",
-        "variable.other.readwrite"
+        "entity.other.attribute-name"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -1382,8 +1381,7 @@
         "constant.other.color.rgb-value",
         "storage.modifier.async",
         "keyword.control.conditional",
-        "meta.import variable.other.readwrite",
-        "meta.tag.attributes variable.other.readwrite"
+        "variable.other.readwrite"
       ],
       "settings": {
         "fontStyle": ""
@@ -1398,8 +1396,7 @@
         "meta.tag.attributes variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#DADCDF",
-        "fontStyle": "bold"
+        "foreground": "#DADCDF"
       }
     },
     {
