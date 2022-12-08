@@ -1404,6 +1404,7 @@
     {
       "scope": [
         "entity.name.type",
+        "entity.name.type.class",
         "support.class",
         "meta.interface entity.other.inherited-class"
       ],
