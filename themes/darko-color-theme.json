@@ -1246,7 +1246,7 @@
       }
     },
     {
-      "scope": ["support.class.component.js"],
+      "scope": ["support.class.component", "entity.name.type.class"],
       "settings": {
         "foreground": "#FFDAAD"
       }
@@ -1353,13 +1353,12 @@
     {
       "scope": [
         "comment",
-        "entity.name.type.class",
         "keyword.control",
         "constant",
         "storage.modifier",
-        "storage.type.class.js",
-        "entity.name.method.js",
-        "entity.name.class.js",
+        "storage.type.class",
+        "entity.name.method",
+        "entity.name.class",
         "entity.name.tag.doctype",
         "entity.other.attribute-name"
       ],
