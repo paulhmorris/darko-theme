@@ -1381,7 +1381,10 @@
         "constant.other.color.rgb-value",
         "storage.modifier.async",
         "keyword.control.conditional",
-        "variable.other.readwrite"
+        "variable.other.readwrite",
+        "string.regexp constant",
+        "constant.other.character-class.set.regexp",
+        "string.regexp punctuation.definition.character-class.regexp"
       ],
       "settings": {
         "fontStyle": ""
@@ -1419,7 +1422,7 @@
       }
     },
     {
-      "scope": ["support.constant.constant.prisma"],
+      "scope": ["support.constant.constant.prisma", "string.regexp keyword"],
       "settings": {
         "foreground": "#97D0FF"
       }
