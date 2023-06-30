@@ -977,6 +977,7 @@
         "variable.css",
         "variable.scss",
         "variable.other.less",
+        "variable.other.readwrite",
         "source.coffee.embedded"
       ],
       "settings": {
@@ -1428,11 +1429,7 @@
       }
     },
     {
-      "scope": [
-        "variable.language.relations.prisma",
-        "keyword.operator",
-        "variable.other.readwrite"
-      ],
+      "scope": ["variable.language.relations.prisma", "keyword.operator"],
       "settings": {
         "foreground": "#FFCDD7"
       }
