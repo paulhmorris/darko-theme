@@ -998,7 +998,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#B4B8BD"
+        "foreground": "#b8b0f6"
       }
     },
     {
@@ -1427,15 +1427,5 @@
         "foreground": "#97D0FF"
       }
     },
-    {
-      "scope": [
-        "variable.language.relations.prisma",
-        "keyword.operator",
-        "variable.other.readwrite"
-      ],
-      "settings": {
-        "foreground": "#FFCDD7"
-      }
-    }
   ]
 }
